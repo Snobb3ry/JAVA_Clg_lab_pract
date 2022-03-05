@@ -1,3 +1,6 @@
+package Prac_1;
+//above line not working on vscode !
+
 class FirstProgram{
     String name,uniName,brnchName;
     int rollNo;
